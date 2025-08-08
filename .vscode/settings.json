@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "duckdb_extension.h": "c",
+        "add_numbers.h": "c"
+    }
+}
